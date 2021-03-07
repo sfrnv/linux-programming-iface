@@ -1,0 +1,3 @@
+// the configured options and settings for temp_prjct
+#define tlpi_VERSION_MAJOR @tlpi_VERSION_MAJOR@
+#define tlpi_VERSION_MINOR @tlpi_VERSION_MINOR@
