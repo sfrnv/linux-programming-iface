@@ -8,6 +8,7 @@ project(tlpi VERSION 1.0)
 # Add the executables
 add_executable(tee file_io/tee/src/tee.cpp)
 add_executable(cp file_io/cp/src/cp.cpp)
+add_executable(id 9_credentials/id/src/id.cpp)
 
 # specify the C++ standard
 set(CMAKE_CXX_STANDARD 11)
